@@ -16,7 +16,7 @@ This project analyzes gene-expression data from control and treated samples usin
 4. R reshapes and joins the data.
 5. R calculates mean expression, standard deviation, and log2 fold-change.
 6. R generates publication-quality figures.
-7. Biological findings are interpreted and presented.
+7. Biological findings are interpreted.
 
 ## Project folders
 
@@ -43,7 +43,7 @@ This project analyzes gene-expression data from control and treated samples usin
 - dplyr
 - tidyr
 - ggplot2
-- ggrepel
+
 
 ## Reproducing the workflow
 
