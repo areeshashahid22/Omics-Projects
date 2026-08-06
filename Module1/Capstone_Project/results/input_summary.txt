@@ -1,0 +1,18 @@
+CAPSTONE PROJECT INPUT SUMMARY
+================================
+
+Project directory:
+/home/areeshahydronix/Capstone_Project
+
+Input files:
+total 516K
+-rw-r--r-- 1 areeshahydronix areeshahydronix 2.0K Aug  5 17:16 annotations.gff3
+-rw-r--r-- 1 areeshahydronix areeshahydronix  50K Aug  5 17:16 ecoli_genome.fasta
+-rw-r--r-- 1 areeshahydronix areeshahydronix  621 Aug  5 17:16 gene_expression.csv
+-rw-r--r-- 1 areeshahydronix areeshahydronix 9.3K Aug  5 17:16 genes.fasta
+-rw-r--r-- 1 areeshahydronix areeshahydronix  171 Aug  5 17:16 sample_metadata.csv
+-rw-r--r-- 1 areeshahydronix areeshahydronix 436K Aug  5 17:16 sample_reads.fastq
+-rw-r--r-- 1 areeshahydronix areeshahydronix 1.1K Aug  5 17:16 variants.vcf
+
+Number of files:
+7

@@ -1,0 +1,324 @@
+,sample,sample_id,leiden_0.7,celltypist_majority
+AAACGGGAGCAATATG-1,Normal,Normal,3,Megakaryocyte precursor
+ACCCACTAGTCCATAC-1,Normal,Normal,0,HSC/MPP
+ACGGCCAGTGCGAAAC-1,Normal,Normal,0,HSC/MPP
+ACGGGTCCACGAGGTA-1,Normal,Normal,0,HSC/MPP
+ACTTGTTCAGCATACT-1,Normal,Normal,0,HSC/MPP
+AGACGTTTCCGCATCT-1,Normal,Normal,3,Megakaryocyte precursor
+AGCAGCCAGTCATGCT-1,Normal,Normal,3,Megakaryocyte precursor
+AGTCTTTAGTGGTAAT-1,Normal,Normal,0,HSC/MPP
+AGTGAGGCAATGCCAT-1,Normal,Normal,0,Age-associated B cells
+ATAGACCGTCGTCTTC-1,Normal,Normal,0,Age-associated B cells
+ATCCGAATCCGAACGC-1,Normal,Normal,0,HSC/MPP
+ATTATCCTCTGTGCAA-1,Normal,Normal,0,HSC/MPP
+CAAGATCGTATATGAG-1,Normal,Normal,3,Megakaryocyte precursor
+CAAGATCGTTGTACAC-1,Normal,Normal,0,HSC/MPP
+CACAGTACAGCTCGCA-1,Normal,Normal,0,HSC/MPP
+CACTCCATCTTAGCCC-1,Normal,Normal,3,Megakaryocyte precursor
+CAGAGAGGTGCATCTA-1,Normal,Normal,0,Megakaryocyte precursor
+CAGCGACGTCACCCAG-1,Normal,Normal,0,HSC/MPP
+CAGCTGGCAACTGCGC-1,Normal,Normal,0,HSC/MPP
+CAGTAACTCCGTCATC-1,Normal,Normal,0,HSC/MPP
+CAGTCCTAGATCCTGT-1,Normal,Normal,0,HSC/MPP
+CATATGGTCCCGGATG-1,Normal,Normal,0,HSC/MPP
+CATCGGGAGGACGAAA-1,Normal,Normal,0,Fibroblasts
+CATGCCTTCTGACCTC-1,Normal,Normal,3,Megakaryocyte precursor
+CATTATCGTTCACGGC-1,Normal,Normal,0,Age-associated B cells
+CCACTACGTTATCGGT-1,Normal,Normal,0,HSC/MPP
+CCATGTCAGTCCAGGA-1,Normal,Normal,2,Mid erythroid
+CCCATACAGGAGTCTG-1,Normal,Normal,0,HSC/MPP
+CCGGGATTCTCGTATT-1,Normal,Normal,0,HSC/MPP
+CCTCAGTTCTGCGTAA-1,Normal,Normal,0,HSC/MPP
+CGACTTCCAGCGATCC-1,Normal,Normal,0,HSC/MPP
+CGAGAAGAGCCAGTTT-1,Normal,Normal,0,HSC/MPP
+CGAGCCAAGGATCGCA-1,Normal,Normal,0,HSC/MPP
+CGCTATCCAGATGGCA-1,Normal,Normal,0,Megakaryocyte precursor
+CGCTGGACACCCTATC-1,Normal,Normal,0,HSC/MPP
+CGGACACCAGCGTTCG-1,Normal,Normal,0,HSC/MPP
+CGGACGTTCTTAGCCC-1,Normal,Normal,0,HSC/MPP
+CGGAGCTTCTGCGGCA-1,Normal,Normal,0,HSC/MPP
+CGGGTCATCGGATGGA-1,Normal,Normal,0,HSC/MPP
+CTAACTTCAGCCACCA-1,Normal,Normal,0,HSC/MPP
+CTAAGACCAATTGCTG-1,Normal,Normal,0,HSC/MPP
+CTAGAGTAGTGTCTCA-1,Normal,Normal,3,Megakaryocyte precursor
+CTGAAGTTCGCTGATA-1,Normal,Normal,0,HSC/MPP
+CTTCTCTAGGTAAACT-1,Normal,Normal,0,HSC/MPP
+GACAGAGTCCTTTACA-1,Normal,Normal,0,HSC/MPP
+GACTACACAGGCAGTA-1,Normal,Normal,3,HSC/MPP
+GAGCAGACAAGGCTCC-1,Normal,Normal,0,HSC/MPP
+GATCAGTGTCAGAAGC-1,Normal,Normal,0,HSC/MPP
+GATGAAAGTACTTCTT-1,Normal,Normal,0,Megakaryocyte precursor
+GCACATATCTCGCATC-1,Normal,Normal,0,HSC/MPP
+GCACTCTAGACGCTTT-1,Normal,Normal,0,HSC/MPP
+GCATGCGGTATCACCA-1,Normal,Normal,0,HSC/MPP
+GCATGTAAGACCCACC-1,Normal,Normal,0,HSC/MPP
+GCATGTAAGTGGTCCC-1,Normal,Normal,0,HSC/MPP
+GCGCCAATCTTTAGTC-1,Normal,Normal,0,HSC/MPP
+GCTCTGTGTTACGGAG-1,Normal,Normal,0,HSC/MPP
+GGAACTTTCTGAGTGT-1,Normal,Normal,0,HSC/MPP
+GGAGCAAAGACTACAA-1,Normal,Normal,0,HSC/MPP
+GGAGCAAGTATCTGCA-1,Normal,Normal,0,HSC/MPP
+GGGCATCAGGTGCAAC-1,Normal,Normal,0,Megakaryocyte precursor
+GGGTCTGTCTCTGTCG-1,Normal,Normal,2,Mid erythroid
+GGTATTGGTTTAAGCC-1,Normal,Normal,0,HSC/MPP
+GTACTCCGTGTTGGGA-1,Normal,Normal,0,HSC/MPP
+GTACTTTTCTGAAAGA-1,Normal,Normal,3,Megakaryocyte precursor
+GTATTCTAGGATGTAT-1,Normal,Normal,3,Megakaryocyte precursor
+GTATTCTGTGAAAGAG-1,Normal,Normal,3,Megakaryocyte precursor
+GTCCTCAGTCTAGCGC-1,Normal,Normal,0,HSC/MPP
+GTCGGGTGTTGCGTTA-1,Normal,Normal,3,Megakaryocyte precursor
+GTCGTAAAGTGCCATT-1,Normal,Normal,0,HSC/MPP
+GTCGTAATCTTCTGGC-1,Normal,Normal,0,HSC/MPP
+TAAGAGATCCGCGCAA-1,Normal,Normal,0,Age-associated B cells
+TACCTTAGTCTCTTTA-1,Normal,Normal,3,Megakaryocyte precursor
+TACGGGCAGTAGGCCA-1,Normal,Normal,0,HSC/MPP
+TACGGGCCATGGTCAT-1,Normal,Normal,3,Megakaryocyte precursor
+TAGGCATCAGCTGTGC-1,Normal,Normal,0,HSC/MPP
+TAGTTGGAGCTAAGAT-1,Normal,Normal,0,HSC/MPP
+TAGTTGGGTTAAAGTG-1,Normal,Normal,0,HSC/MPP
+TATCAGGTCTCCTATA-1,Normal,Normal,0,Megakaryocyte precursor
+TATCTCACAAGTAGTA-1,Normal,Normal,0,HSC/MPP
+TATCTCAGTCTTCAAG-1,Normal,Normal,3,Megakaryocyte precursor
+TCAATCTAGGAACTGC-1,Normal,Normal,0,HSC/MPP
+TCACGAAAGCTGAACG-1,Normal,Normal,0,HSC/MPP
+TCAGGATGTTCTGTTT-1,Normal,Normal,0,HSC/MPP
+TCGCGTTCAAGCTGAG-1,Normal,Normal,0,HSC/MPP
+TCTCATAGTTATTCTC-1,Normal,Normal,0,HSC/MPP
+TGAAAGACACTCTGTC-1,Normal,Normal,0,HSC/MPP
+TGCACCTCACGGACAA-1,Normal,Normal,0,HSC/MPP
+TGCCAAACAAGGACTG-1,Normal,Normal,0,HSC/MPP
+TGCCAAATCTAACTCT-1,Normal,Normal,0,Age-associated B cells
+TGGCGCATCTACTATC-1,Normal,Normal,0,Fibroblasts
+TTAACTCTCCAAACTG-1,Normal,Normal,0,HSC/MPP
+TTAGGACGTAAGTTCC-1,Normal,Normal,1,Mid erythroid
+TTAGGCAAGCCACTAT-1,Normal,Normal,0,HSC/MPP
+TTCGGTCTCCAGGGCT-1,Normal,Normal,3,Megakaryocyte precursor
+TTCTCCTGTGTTTGTG-1,Normal,Normal,0,HSC/MPP
+TTCTCCTTCATACGGT-1,Normal,Normal,0,HSC/MPP
+TTTATGCTCAACTCTT-1,Normal,Normal,0,HSC/MPP
+AAAGATGCAAGAAGAG-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+AAAGATGCAGTCCTTC-1,Leukemia,Leukemia,2,Mid erythroid
+AACCGCGGTAGCTAAA-1,Leukemia,Leukemia,2,Early erythroid
+AACTCTTGTTACGGAG-1,Leukemia,Leukemia,1,Mid erythroid
+AAGACCTCACATTAGC-1,Leukemia,Leukemia,1,Mid erythroid
+AAGGAGCGTCATATGC-1,Leukemia,Leukemia,3,Early MK
+AAGGCAGGTCCAGTGC-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+AAGGCAGGTGGTAACG-1,Leukemia,Leukemia,1,Mid erythroid
+AAGTCTGCAATTCCTT-1,Leukemia,Leukemia,2,Mid erythroid
+ACACCCTCATCTGGTA-1,Leukemia,Leukemia,1,Mid erythroid
+ACACTGACACCAGGCT-1,Leukemia,Leukemia,2,Early erythroid
+ACACTGAGTTGTGGAG-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+ACAGCCGAGCCACGCT-1,Leukemia,Leukemia,2,Mid erythroid
+ACAGCTAAGTGGGATC-1,Leukemia,Leukemia,2,Mid erythroid
+ACATACGCAAGGTTTC-1,Leukemia,Leukemia,1,Mid erythroid
+ACATACGCACCATGTA-1,Leukemia,Leukemia,0,Early erythroid
+ACATGGTTCCAACCAA-1,Leukemia,Leukemia,3,Megakaryocyte precursor
+ACCCACTGTACATCCA-1,Leukemia,Leukemia,2,Early erythroid
+ACCCACTTCTGTCAAG-1,Leukemia,Leukemia,2,Early erythroid
+ACCTTTAGTGTGAAAT-1,Leukemia,Leukemia,0,HSC/MPP
+ACGAGCCTCGCTTGTC-1,Leukemia,Leukemia,2,Early erythroid
+ACGCCAGAGATGTTAG-1,Leukemia,Leukemia,1,Mid erythroid
+ACGCCGAGTGTCAATC-1,Leukemia,Leukemia,1,Mid erythroid
+ACTTTCAAGCGTGAGT-1,Leukemia,Leukemia,1,Mid erythroid
+ACTTTCAAGGACCACA-1,Leukemia,Leukemia,1,Mid erythroid
+AGACGTTTCCCGGATG-1,Leukemia,Leukemia,1,Mid erythroid
+AGAGCGATCGTTACGA-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+AGAGCTTCAACGCACC-1,Leukemia,Leukemia,2,Early erythroid
+AGCCTAAGTTTCCACC-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+AGCGGTCAGAGCTGCA-1,Leukemia,Leukemia,1,Mid erythroid
+AGCGTCGAGCACAGGT-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+AGCTCCTAGCATGGCA-1,Leukemia,Leukemia,2,Mid erythroid
+AGGCCGTCACAGCCCA-1,Leukemia,Leukemia,2,Mid erythroid
+AGGGAGTAGACAGACC-1,Leukemia,Leukemia,1,Mid erythroid
+AGGGATGGTCCAAGTT-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+AGTCTTTTCGCTAGCG-1,Leukemia,Leukemia,3,Megakaryocyte precursor
+AGTGAGGCAGGACCCT-1,Leukemia,Leukemia,2,Mid erythroid
+ATAACGCGTTGTTTGG-1,Leukemia,Leukemia,2,Early erythroid
+ATAAGAGCAGATCGGA-1,Leukemia,Leukemia,1,Mid erythroid
+ATCACGATCTTAACCT-1,Leukemia,Leukemia,3,Early MK
+ATTATCCCACATAACC-1,Leukemia,Leukemia,2,Mid erythroid
+ATTGGACAGATGAGAG-1,Leukemia,Leukemia,1,Mid erythroid
+ATTGGACTCACCTTAT-1,Leukemia,Leukemia,2,Mid erythroid
+ATTTCTGCACGAGAGT-1,Leukemia,Leukemia,3,Megakaryocyte precursor
+CAAGAAACAATGACCT-1,Leukemia,Leukemia,3,Early MK
+CAAGATCCAATACGCT-1,Leukemia,Leukemia,2,Mid erythroid
+CAAGGCCTCTTCATGT-1,Leukemia,Leukemia,2,Mid erythroid
+CACAAACCAAGCTGGA-1,Leukemia,Leukemia,2,Early erythroid
+CACACAAAGTTACCCA-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+CACAGTAAGGGCTTGA-1,Leukemia,Leukemia,1,Mid erythroid
+CACAGTACAGACTCGC-1,Leukemia,Leukemia,1,Mid erythroid
+CACAGTAGTAAATGAC-1,Leukemia,Leukemia,2,Early erythroid
+CACATAGCACACGCTG-1,Leukemia,Leukemia,2,Mid erythroid
+CACCAGGAGTACGACG-1,Leukemia,Leukemia,1,Mid erythroid
+CACCTTGGTTACTGAC-1,Leukemia,Leukemia,1,Mid erythroid
+CACCTTGTCATCATTC-1,Leukemia,Leukemia,2,Early erythroid
+CAGAATCTCGTACGGC-1,Leukemia,Leukemia,2,Mid erythroid
+CAGAGAGCACATCCGG-1,Leukemia,Leukemia,1,Mid erythroid
+CAGGTGCTCCTTCAAT-1,Leukemia,Leukemia,2,Mid erythroid
+CAGTCCTTCTTGTACT-1,Leukemia,Leukemia,2,Early erythroid
+CATCAGACATGCCACG-1,Leukemia,Leukemia,0,HSC/MPP
+CATCCACGTTCACCTC-1,Leukemia,Leukemia,1,Late erythroid
+CATTATCGTCAGGACA-1,Leukemia,Leukemia,2,Mid erythroid
+CATTCGCGTCTGCCAG-1,Leukemia,Leukemia,2,Early erythroid
+CCATTCGGTCTCATCC-1,Leukemia,Leukemia,2,Mid erythroid
+CCGTGGACACGCTTTC-1,Leukemia,Leukemia,3,Megakaryocyte precursor
+CCGTGGATCATCGCTC-1,Leukemia,Leukemia,1,Mid erythroid
+CCTAAAGAGTATCTCG-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+CCTATTAGTACAGTGG-1,Leukemia,Leukemia,2,Mid erythroid
+CCTCTGACACGAGAGT-1,Leukemia,Leukemia,1,Mid erythroid
+CCTCTGACATGCGCAC-1,Leukemia,Leukemia,2,Mid erythroid
+CGACTTCGTTTGTTGG-1,Leukemia,Leukemia,1,Mid erythroid
+CGAGAAGAGAGCTGGT-1,Leukemia,Leukemia,2,Mid erythroid
+CGAGCACCACCTTGTC-1,Leukemia,Leukemia,1,Mid erythroid
+CGAGCACGTTACGTCA-1,Leukemia,Leukemia,2,Mid erythroid
+CGATCGGCAATACGCT-1,Leukemia,Leukemia,2,Mid erythroid
+CGATCGGGTCTTCTCG-1,Leukemia,Leukemia,2,Early erythroid
+CGATGGCCACTTAACG-1,Leukemia,Leukemia,2,Mid erythroid
+CGATTGAAGACACTAA-1,Leukemia,Leukemia,1,Mid erythroid
+CGGACACAGGCATGTG-1,Leukemia,Leukemia,2,Mid erythroid
+CGGACACAGTGCGTGA-1,Leukemia,Leukemia,1,Mid erythroid
+CGGAGCTTCTGAAAGA-1,Leukemia,Leukemia,1,Mid erythroid
+CGGCTAGTCCAAATGC-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+CGGCTAGTCTGTCAAG-1,Leukemia,Leukemia,2,Mid erythroid
+CGTAGCGAGAGTACAT-1,Leukemia,Leukemia,1,Mid erythroid
+CGTAGCGTCAGAGGTG-1,Leukemia,Leukemia,1,Mid erythroid
+CGTCACTCACCAGCAC-1,Leukemia,Leukemia,1,Mid erythroid
+CGTCACTGTGAGTGAC-1,Leukemia,Leukemia,2,Mid erythroid
+CGTCCATTCCTTGCCA-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+CGTCTACAGACACTAA-1,Leukemia,Leukemia,0,HSC/MPP
+CTAAGACAGAGTAATC-1,Leukemia,Leukemia,1,Mid erythroid
+CTAAGACCATGCCTTC-1,Leukemia,Leukemia,2,Mid erythroid
+CTACGTCCACCTATCC-1,Leukemia,Leukemia,1,Mid erythroid
+CTAGCCTCAGTGAGTG-1,Leukemia,Leukemia,2,Mid erythroid
+CTCACACAGTCGTACT-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+CTCAGAACATTCACTT-1,Leukemia,Leukemia,2,Mid erythroid
+CTCGAAAAGACACGAC-1,Leukemia,Leukemia,1,Mid erythroid
+CTCGAAAAGTAATCCC-1,Leukemia,Leukemia,1,Mid erythroid
+CTCGGGACATTAGGCT-1,Leukemia,Leukemia,2,Mid erythroid
+CTCGGGATCTCTGAGA-1,Leukemia,Leukemia,0,HSC/MPP
+CTCGTACGTGCAGACA-1,Leukemia,Leukemia,2,Mid erythroid
+CTCTACGTCAGTTAGC-1,Leukemia,Leukemia,2,Early erythroid
+CTCTGGTCAGCTGTGC-1,Leukemia,Leukemia,2,Mid erythroid
+CTCTGGTTCCCAGGTG-1,Leukemia,Leukemia,0,HSC/MPP
+CTGATAGAGAGCTTCT-1,Leukemia,Leukemia,0,HSC/MPP
+CTGTGCTTCTCTGCTG-1,Leukemia,Leukemia,1,Mid erythroid
+CTTAACTCAACTGGCC-1,Leukemia,Leukemia,2,Early erythroid
+CTTAGGAAGAGTGACC-1,Leukemia,Leukemia,1,Mid erythroid
+CTTGGCTTCTGTTTGT-1,Leukemia,Leukemia,1,Mid erythroid
+CTTTGCGAGGCACATG-1,Leukemia,Leukemia,0,HSC/MPP
+GAACGGAGTATAGGGC-1,Leukemia,Leukemia,3,Early MK
+GAAGCAGCAAACGCGA-1,Leukemia,Leukemia,2,Early erythroid
+GACAGAGAGCCACCTG-1,Leukemia,Leukemia,1,Mid erythroid
+GACCAATTCTCGATGA-1,Leukemia,Leukemia,1,Mid erythroid
+GACCTGGAGTTCCACA-1,Leukemia,Leukemia,3,Early MK
+GACGGCTGTAAGGATT-1,Leukemia,Leukemia,3,Megakaryocyte precursor
+GACGGCTTCAGCGACC-1,Leukemia,Leukemia,3,Early MK
+GACGTGCTCGCACTCT-1,Leukemia,Leukemia,1,Mid erythroid
+GACGTTAAGAATCTCC-1,Leukemia,Leukemia,3,Megakaryocyte precursor
+GACTAACAGAGACTTA-1,Leukemia,Leukemia,1,Mid erythroid
+GACTGCGTCCTCGCAT-1,Leukemia,Leukemia,1,Mid erythroid
+GAGTCCGAGACTAAGT-1,Leukemia,Leukemia,3,Early MK
+GAGTCCGAGTCTCCTC-1,Leukemia,Leukemia,2,Early erythroid
+GATCGATGTACCTACA-1,Leukemia,Leukemia,1,Late erythroid
+GATCGTATCCACGACG-1,Leukemia,Leukemia,1,Mid erythroid
+GATCTAGGTATATCCG-1,Leukemia,Leukemia,2,Early erythroid
+GATGAAATCACATGCA-1,Leukemia,Leukemia,1,Mid erythroid
+GATGAAATCGTTTGCC-1,Leukemia,Leukemia,1,Mid erythroid
+GATTCAGAGCATGGCA-1,Leukemia,Leukemia,2,Mid erythroid
+GATTCAGGTGTATGGG-1,Leukemia,Leukemia,1,Mid erythroid
+GCACATAAGCTCAACT-1,Leukemia,Leukemia,2,Mid erythroid
+GCACTCTGTTAAGAAC-1,Leukemia,Leukemia,2,Early erythroid
+GCATACAAGAACTCGG-1,Leukemia,Leukemia,2,Mid erythroid
+GCCTCTACATTTGCCC-1,Leukemia,Leukemia,2,Mid erythroid
+GCGCAGTGTGCGAAAC-1,Leukemia,Leukemia,1,Mid erythroid
+GCGCCAAGTCGAACAG-1,Leukemia,Leukemia,2,Early erythroid
+GCGCCAATCATCTGCC-1,Leukemia,Leukemia,1,Mid erythroid
+GCTTCCACAGGATTGG-1,Leukemia,Leukemia,1,Mid erythroid
+GCTTGAAGTATAATGG-1,Leukemia,Leukemia,1,Mid erythroid
+GCTTGAAGTGTGAAAT-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+GGAAAGCAGACTAGGC-1,Leukemia,Leukemia,3,Early MK
+GGACATTAGCGTTGCC-1,Leukemia,Leukemia,1,Mid erythroid
+GGACGTCCAAATCCGT-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+GGACGTCCAATGTAAG-1,Leukemia,Leukemia,2,Mid erythroid
+GGAGCAACACATGGGA-1,Leukemia,Leukemia,1,Mid erythroid
+GGATTACTCGCTTGTC-1,Leukemia,Leukemia,1,Mid erythroid
+GGCCGATCATAGTAAG-1,Leukemia,Leukemia,2,Early erythroid
+GGCGACTCAGCGTCCA-1,Leukemia,Leukemia,2,Early erythroid
+GGGACCTCAGACGCAA-1,Leukemia,Leukemia,1,Mid erythroid
+GGGATGATCGTACGGC-1,Leukemia,Leukemia,2,Early erythroid
+GGGATGATCTCCTATA-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+GGTGAAGCACGTCAGC-1,Leukemia,Leukemia,1,Mid erythroid
+GGTGAAGCATATGCTG-1,Leukemia,Leukemia,1,Mid erythroid
+GGTGAAGTCGATCCCT-1,Leukemia,Leukemia,1,Late erythroid
+GGTGTTATCGCCTGAG-1,Leukemia,Leukemia,2,Mid erythroid
+GTAACGTCACGGCGTT-1,Leukemia,Leukemia,2,Mid erythroid
+GTAACTGTCCTGCCAT-1,Leukemia,Leukemia,1,Mid erythroid
+GTACTCCCAATGTAAG-1,Leukemia,Leukemia,0,HSC/MPP
+GTAGTCAGTACAGCAG-1,Leukemia,Leukemia,2,Early erythroid
+GTCAAGTCAAGTCATC-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+GTCAAGTCATTAGGCT-1,Leukemia,Leukemia,1,Mid erythroid
+GTCACAATCAGTTTGG-1,Leukemia,Leukemia,2,Mid erythroid
+GTCCTCACAATCGGTT-1,Leukemia,Leukemia,2,Early erythroid
+GTCCTCACATCCGCGA-1,Leukemia,Leukemia,1,Mid erythroid
+GTCTCGTTCTGCTTGC-1,Leukemia,Leukemia,0,HSC/MPP
+GTGCAGCGTCAATGTC-1,Leukemia,Leukemia,1,Mid erythroid
+GTGGGTCTCAGTGTTG-1,Leukemia,Leukemia,1,Mid erythroid
+GTGGGTCTCCATGAGT-1,Leukemia,Leukemia,1,Mid erythroid
+GTGTGCGCAAATCCGT-1,Leukemia,Leukemia,1,Mid erythroid
+GTGTTAGGTTGGAGGT-1,Leukemia,Leukemia,1,Mid erythroid
+GTTCATTAGACCTTTG-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+GTTCTCGAGTGAAGTT-1,Leukemia,Leukemia,1,Mid erythroid
+TAAGCGTGTTATCGGT-1,Leukemia,Leukemia,3,Early MK
+TAAGTGCGTGTCGCTG-1,Leukemia,Leukemia,2,Mid erythroid
+TACACGACATTGGCGC-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+TACCTTAGTAACGACG-1,Leukemia,Leukemia,1,Mid erythroid
+TACGGATAGCTAGTCT-1,Leukemia,Leukemia,3,Early MK
+TACGGGCTCCAACCAA-1,Leukemia,Leukemia,2,Mid erythroid
+TAGCCGGGTCGCATCG-1,Leukemia,Leukemia,3,Megakaryocyte precursor
+TAGTTGGCATCCCATC-1,Leukemia,Leukemia,1,Mid erythroid
+TATCTCAAGACGCACA-1,Leukemia,Leukemia,1,Mid erythroid
+TATCTCAGTTGCGTTA-1,Leukemia,Leukemia,1,Mid erythroid
+TATGCCCAGTGTCCCG-1,Leukemia,Leukemia,1,Mid erythroid
+TATGCCCCACCGTTGG-1,Leukemia,Leukemia,3,Early MK
+TATGCCCGTCACCCAG-1,Leukemia,Leukemia,1,Late erythroid
+TCAACGACAAGCCATT-1,Leukemia,Leukemia,1,Mid erythroid
+TCAACGAGTTAAGGGC-1,Leukemia,Leukemia,2,Mid erythroid
+TCAACGAGTTGGTAAA-1,Leukemia,Leukemia,1,Mid erythroid
+TCAATCTCATTGGTAC-1,Leukemia,Leukemia,1,Mid erythroid
+TCACAAGGTCACACGC-1,Leukemia,Leukemia,1,Mid erythroid
+TCAGGTACAGCCACCA-1,Leukemia,Leukemia,0,HSC/MPP
+TCAGGTATCACGACTA-1,Leukemia,Leukemia,2,Mid erythroid
+TCGCGAGGTCAGTGGA-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+TCTATTGTCCAGAAGG-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+TCTGAGAAGATATGCA-1,Leukemia,Leukemia,1,Mid erythroid
+TCTTCGGGTTTAGCTG-1,Leukemia,Leukemia,3,Early MK
+TGACAACTCTTTCCTC-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+TGACGGCAGGCCCTTG-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+TGACTAGTCATAACCG-1,Leukemia,Leukemia,3,Early MK
+TGACTTTCAACGATGG-1,Leukemia,Leukemia,2,Mid erythroid
+TGAGGGACAACTGCTA-1,Leukemia,Leukemia,1,Mid erythroid
+TGATTTCAGTCTCCTC-1,Leukemia,Leukemia,1,Early erythroid
+TGATTTCTCTTCGAGA-1,Leukemia,Leukemia,1,Mid erythroid
+TGCCAAAGTCGGCACT-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+TGCCCATAGTCTCAAC-1,Leukemia,Leukemia,0,HSC/MPP
+TGCCCTAAGGCCGAAT-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+TGCGGGTAGACTGGGT-1,Leukemia,Leukemia,2,Mid erythroid
+TGGTTAGTCCCACTTG-1,Leukemia,Leukemia,1,Mid erythroid
+TGTATTCTCGATAGAA-1,Leukemia,Leukemia,1,Early erythroid
+TGTGTTTCAGGTGCCT-1,Leukemia,Leukemia,2,Mid erythroid
+TGTGTTTTCCTAAGTG-1,Leukemia,Leukemia,1,Mid erythroid
+TGTTCCGCAGGCTGAA-1,Leukemia,Leukemia,1,Mid erythroid
+TTAACTCTCTGCTGCT-1,Leukemia,Leukemia,2,Mid erythroid
+TTAGGACCAGTTCATG-1,Leukemia,Leukemia,0,HSC/MPP
+TTAGGCACACAGTCGC-1,Leukemia,Leukemia,2,Mid erythroid
+TTAGTTCAGACACTAA-1,Leukemia,Leukemia,3,Early MK
+TTAGTTCAGGCGCTCT-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+TTCTACAGTGGCAAAC-1,Leukemia,Leukemia,0,HSC/MPP
+TTCTCAAGTGGAAAGA-1,Leukemia,Leukemia,2,Mid erythroid
+TTGACTTGTACGCACC-1,Leukemia,Leukemia,1,Mid erythroid
+TTGACTTGTAGGCTGA-1,Leukemia,Leukemia,2,Mid erythroid
+TTGACTTGTGCAGACA-1,Leukemia,Leukemia,3,Megakaryocyte-erythroid-mast cell progenitor
+TTGCCGTCACGGTAGA-1,Leukemia,Leukemia,1,Mid erythroid
+TTTACTGTCTTCCTTC-1,Leukemia,Leukemia,2,Mid erythroid
+TTTATGCGTTTACTCT-1,Leukemia,Leukemia,2,Early erythroid
+TTTGCGCGTGAAATCA-1,Leukemia,Leukemia,0,Megakaryocyte precursor

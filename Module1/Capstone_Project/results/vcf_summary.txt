@@ -1,0 +1,5 @@
+VCF SUMMARY
+===========
+Total variants: 20
+SNPs: 20
+Indels/other variants: 0

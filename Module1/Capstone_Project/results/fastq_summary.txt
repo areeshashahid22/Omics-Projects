@@ -1,0 +1,6 @@
+FASTQ SUMMARY
+=============
+Total reads: 2000
+Mean read quality: 29.93
+QC threshold: 20
+QC passing reads: 1711
