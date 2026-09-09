@@ -64,6 +64,7 @@ LKYNLSDGENPKVVFIEISDQRLSIGSPSKKIYDSLGQPVFYQASFSWDTMIKFGDVLT
 VNPLVVNWRNNVISRPGQSQCPRFNTCPEICWEGVYNDAFLIDRINWISAGVFLDSNQTA
 ENPVFTVFKDNEILYRAQLASEDTNAQKTITNCFLLKNKIWCISLVEIIYDTGDNVIRPK
 LFAVKIPEQCT
+
 🔬 Computational Design Pipeline
                     TARGET SEQUENCE
                           │
@@ -129,10 +130,10 @@ LFAVKIPEQCT
 📊 Score Interpretation
 | Metric | Meaning | Interpretation |
 |---|---|---|
-| **pLDDT** | Predicted local structural confidence | Higher is better |
-| **pTM** | Predicted confidence in overall topology | Higher is better |
-| **PAE** | Predicted alignment error / positional uncertainty | Lower is better |
-| **RMSD** | Structural deviation between compared structures | Lower generally indicates greater similarity |
+| pLDDT | Predicted local structural confidence | Higher is better |
+| pTM | Predicted confidence in overall topology | Higher is better |
+| PAE | Predicted alignment error / positional uncertainty | Lower is better |
+| RMSD | Structural deviation between compared structures | Lower generally indicates greater similarity |
 
 Important interpretation
 The ranking in this project is primarily a structural-confidence ranking.
@@ -148,13 +149,13 @@ Experimental validation and additional computational analyses would be required 
 🛠️ Tools & Resources
 | Tool | Purpose | Access |
 |---|---|---|
-| **ESMFold2** | Protein structure prediction | [biohub.ai](https://biohub.ai/tools/fold) |
-| **fpocket** | Binding-pocket detection | [RPBS Web Server](https://mobyle2.rpbs.univ-paris-diderot.fr) |
-| **RFdiffusion** | Peptide-backbone generation | Google Colab |
-| **ProteinMPNN** | Inverse folding / sequence design | Google Colab |
-| **AlphaFold2** | Structure prediction and validation | Google Colab |
-| **RCSB PDB** | Structural reference for PDB 2VSM | [RCSB PDB](https://www.rcsb.org/structure/2VSM) |
-| **Proteins.Plus** | Complementary pocket analysis | [Proteins.Plus](https://proteins.plus) |
+| ESMFold2 | Protein structure prediction | [biohub.ai](https://biohub.ai/tools/fold) |
+| fpocket | Binding-pocket detection | [RPBS Web Server](https://mobyle2.rpbs.univ-paris-diderot.fr) |
+| RFdiffusion | Peptide-backbone generation | Google Colab |
+| ProteinMPNN | Inverse folding / sequence design | Google Colab |
+| AlphaFold2 | Structure prediction and validation | Google Colab |
+| RCSB PDB | Structural reference for PDB 2VSM | [RCSB PDB](https://www.rcsb.org/structure/2VSM) |
+| Proteins.Plus | Complementary pocket analysis | [Proteins.Plus](https://proteins.plus) |
 
 
 🔭 Future Directions
@@ -173,7 +174,7 @@ Open-source resources
 - RFdiffusion — Baker Lab
 - ESM — Meta AI Research
 
-👩‍💻 Author
+##👩‍💻 Author
 Areesha Shahid
 BS Bioinformatics
 Quaid-i-Azam University, Islamabad
