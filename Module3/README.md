@@ -2,8 +2,6 @@
 
 ### Capstone Project — Module 3 | Foundations of Protein Language & AI
 
-**Omics Summer School 2026 | Quaid-i-Azam University, Islamabad**
-
 ---
 
 ## 📌 Overview
@@ -174,7 +172,7 @@ Open-source resources
 - RFdiffusion — Baker Lab
 - ESM — Meta AI Research
 
-##👩‍💻 Author
+👩‍💻 Author
 Areesha Shahid
 BS Bioinformatics
 Quaid-i-Azam University, Islamabad
